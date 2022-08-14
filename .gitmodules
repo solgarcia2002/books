@@ -1,3 +1,6 @@
 [submodule "booksBE"]
 	path = booksBE
 	url = https://github.com/solgarcia2002/booksBE.git
+[submodule "booksFE"]
+	path = booksFE
+	url = https://github.com/solgarcia2002/booksFE.git
